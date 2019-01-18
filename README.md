@@ -5,7 +5,8 @@ CODE IS WRITTEN IN PYTHON 3.7.0
 #instruction to run the code 
 
 
-The app is trained by data present in corpus.txt so dowload it first.
+The app is trained by data present in corpus.txt so dowload it first from this link 
+http://hr-testcases.s3.amazonaws.com/2428/assets/corpus.txt
 
 $ pip install -r requirements.txt;
 $ python app.py

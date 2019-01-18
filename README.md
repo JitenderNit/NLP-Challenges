@@ -1,18 +1,5 @@
 # NLP-Challenges
 CODE IS WRITTEN IN PYTHON 3.7.0
 
-
-#instruction to run the code 
-
-
-The app is trained by data present in corpus.txt so dowload it first from this link 
-http://hr-testcases.s3.amazonaws.com/2428/assets/corpus.txt
-
-$ pip install -r requirements.txt;
-$ python app.py
-
-Input Format 
-The input need to contain two lines. The first line will contain only one integer N, which will equal the number of blanks in the text. The second line contains one paragraph of text. Several occurences of the words mentioned previously have been blanked out and replaced by four consecutive hyphens (----). These are the blanks which you need to fill up with one of the following words: 'am','are','were','was','is','been','being','be'.
-The app will return an class {'am','are','were','was','is','been','being','be'} on the blank (---) input.
-
-
+Both the projects are compressed in zip files.
+Code can be run directly in hackerrank by uploading it or by following the instructions given in each.
